@@ -10,15 +10,21 @@ Each topic is organized with Jupyter notebooks and supporting datasets to demons
 MLearning/
 │
 ├── Decision Tree/ # Implementation and examples of Decision Trees
+
 ├── Linear Regression/ # Basics and House Price Prediction example
+
 ├── Logistic Regression/ # Classification tasks using Logistic Regression
+
 ├── Random Forest/ # Ensemble learning with Random Forest
+
 ├── Support Vector/ # SVM classifier implementations
+
 ├── Unsupervised/ # K-means, Hierarchical, DBSCAN, PCA, etc.
 │
 ├── Reinforce/ # Reinforcement Learning experiments
 │
 ├── Exe1.ipynb # Introductory ML notebook (Exercises)
+
 ├── car.csv # Sample dataset (Car details for ML tasks)
 │
 └── README.md # Project documentation
